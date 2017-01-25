@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
         let url = URL(string: "https://www.google.co.jp/")
         let request = URLRequest(url: url!)
-        self.myweb.loadRequest(request)
+        myweb.loadRequest(request)
         
     }
 

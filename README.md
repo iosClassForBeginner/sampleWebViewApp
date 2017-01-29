@@ -18,6 +18,10 @@
 
 ## アプリ作成手順
 
+#### 0, 開発準備
+> 0-1. xcodeで新規プロジェクトを立ち上げる
+![image](https://github.com/iosClassForBeginner/sampleWebViewApp/blob/master/Assets/create_new_project.gif)
+
 #### 1, Storyboardで、アプリのデザイン
 > 1-1. main.storyboardを選択し、UI部品からUIWebViewを配置します。(ドラッグ&ドロップ)
 ![image](https://github.com/iosClassForBeginner/sampleWebViewApp/blob/master/Assets/set_webview.gif)
